@@ -12,9 +12,8 @@ This project was developed as part of the **CodeAlpha Artificial Intelligence In
 
 🔗 **Try the Application Here**
 
-https://your-app-name.streamlit.app
+[https://FAQChatBot.streamlit.app](https://codealphafaqchatbot-he4sxuq5ymmjtf5nrbs6cn.streamlit.app/)
 
-*(Add your deployed Streamlit or Hugging Face link here after deployment.)*
 
 ---
 
@@ -48,7 +47,7 @@ https://your-app-name.streamlit.app
 
 ## 💬 Chatbot Conversation
 
-![Chatbot Conversation](assets/chat.png)
+![Chatbot Conversation](assets/chats.png)
 
 ---
 
@@ -109,7 +108,7 @@ CodeAlpha_FAQChatbot/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_FAQChatbot.git
+git clone https://github.com/AkarshKumar1/CodeAlpha_FAQChatbot.git
 ```
 
 ---
@@ -255,9 +254,9 @@ Completed Successfully ✅
 
 B.Tech Student | AI & Data Science Enthusiast
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/AkarshKumar1
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 LinkedIn: https://linkedin.com/in/akarshkumar06/
 
 ---
 
